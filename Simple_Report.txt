@@ -1,0 +1,19 @@
+
+SE369 Software Component Design Project
+
+Application:
+Mini Shop Console Application
+
+Patterns:
+1. Factory -> PaymentFactory
+2. Singleton -> Logger
+3. Bridge -> Notification + MessageSender
+4. Decorator -> DiscountDecorator
+5. Composite -> CategoryComposite
+6. Command -> AddToCartCommand
+7. Strategy -> PaymentStrategy
+8. State -> OrderState
+9. Observer -> EmailNotification and SMSNotification
+10. Chain of Responsibility -> UsernameHandler and PasswordHandler
+
+This project is a simple e-commerce console system that demonstrates the use of all required design patterns.
